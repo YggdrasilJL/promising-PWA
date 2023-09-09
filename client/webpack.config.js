@@ -24,10 +24,12 @@ module.exports = () => {
         title: 'Webpack Plugin',
       }),
       new WebpackPwaManifest({
-        name: 'Text Editor',
-        short_name: 'MyPWA Text Editor',
-        description: 'My awesome Progressive Web App!',
-        background_color: '#ffffff',
+        name: 'Just Another Text Editor',
+        short_name: 'J.A.T.E',
+        description:
+          'JATE is a simple text editor with javascript syntax highlighting',
+        theme_color: '#303efc',
+        background_color: '#303efc',
         start_url: '/',
         publicPath: '/',
         fingerprints: false,

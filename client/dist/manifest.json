@@ -31,11 +31,12 @@
       "type": "image/png"
     }
   ],
-  "name": "Text Editor",
-  "short_name": "MyPWA Text Editor",
+  "name": "Just Another Text Editor",
+  "short_name": "J.A.T.E",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "My awesome Progressive Web App!",
-  "background_color": "#ffffff"
+  "description": "JATE is a simple text editor with javascript syntax highlighting",
+  "theme_color": "#303efc",
+  "background_color": "#303efc"
 }
