@@ -1,6 +1,10 @@
 # J.A.T.E
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This is a Progressive Web Application (PWA) Text Editor project that allows you to create and manage notes or code snippets, with or without an internet connection. The application utilizes IndexedDB for data storage, enabling you to reliably retrieve your content for later use, even in offline mode.
+
+![preview](./client/src/images/1.png)
 
 ## Demo
 
@@ -24,6 +28,7 @@ If you want to test the application, you can go to [this]() website!
    ```bash
    npm run start
    ```
+
 ## Usage
 
 1. Open the text editor in your browser.
@@ -34,6 +39,4 @@ If you want to test the application, you can go to [this]() website!
 
 4. Install the application as a Progressive Web Application for offline access.
 
-## Screenshot
-
-![preview](./client/src/images/1.png)
+![logo](./client/src/images/logo.png)
